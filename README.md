@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![mauroilija](https://komarev.com/ghpvc/?username=arselabita&color=brightgreen&style=flat)
+![mauroilija](https://komarev.com/ghpvc/?username=mauroilija&color=brightgreen&style=flat)
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=arselabita&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arselabita&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arselabita&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arselabita&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arselabita&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arselabita&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mauroilija&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauroilija&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauroilija&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauroilija&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauroilija&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauroilija&theme=radical)
 </div>
