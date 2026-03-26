@@ -1,25 +1,40 @@
 ## Hi there 👋
-<!--
-**mauroilija/mauroilija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=mauroilija&color=blue&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![mauroilija](https://komarev.com/ghpvc/?username=mauroilija&color=brightgreen&style=flat)
-<div align=center>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mauroilija&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauroilija&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauroilija&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauroilija&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauroilija&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauroilija&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=mauroilija&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauroilija&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauroilija&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauroilija&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauroilija&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauroilija&theme=github_dark" />
+
 </div>
+
+---
+
+### 🔭 Currently working on
+- Building projects
+- Improving coding skills
+
+### 🌱 Currently learning
+- New tech & frameworks
+- System design
+
+### 👯 Open to collaborate on
+- Open-source
+- Interesting ideas
+
+### 💬 Ask me about
+- Programming
+- Tech
+
+### ⚡ Fun fact
+- I like minimal setups
