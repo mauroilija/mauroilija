@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=mauroilija&color=blue&style=flat)
-
-## Hi there 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mauroilija&color=blue&style=flat)
 
 <p align="center">
